@@ -28,7 +28,7 @@ O(n) as all elements after element n need to be shifted 1 down
 Good if want to store fixed length data and look up often by index but not modify.
 """
 
-#Linked Lists
+# Linked Lists
 """
 Addresses a lot of the inefficiencies of Arrays.
 A type of data structure used for storing collections of data. 
